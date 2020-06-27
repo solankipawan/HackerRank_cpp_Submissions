@@ -7,6 +7,17 @@ The third line contains a single integer x,denoting the position of an element t
 be removed from the vector.
 The fourth line contains two integers a and b denoting the range that should be erased from the vector 
 inclusive of a and exclusive of b.
+Sample Input
+
+6
+1 4 6 2 8 9
+2
+2 4
+
+Sample Output
+
+3
+1 8 9
 */
 
 #include<iostream>
