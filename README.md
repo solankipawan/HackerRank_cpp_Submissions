@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/P-solanki29/HackerRank_cpp_Submissions/blob/master/Image/hackerrank.png" width="60" height="60"> HackerRank_cpp_Submissions </h1>
+<h1> <img src="https://github.com/P-solanki29/HackerRank_cpp_Submissions/blob/master/Image/hackerrank.png" width="60" height="40"> HackerRank_cpp_Submissions </h1>
 <h3> This Repository conatins the hackerrank practice problems of c++ solutions by problem namewise.</h3>
 
 _Connects with me_:
